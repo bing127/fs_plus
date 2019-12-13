@@ -1,0 +1,27 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "mKall8xfKBPL/a5Ji//i968rLsY=",
+			"path": "github.com/gin-contrib/sse",
+			"revision": "43f0f29dbd2b3f0feeebff91fd9cda22db296938",
+			"revisionTime": "2019-09-05T05:13:34Z"
+		},
+		{
+			"checksumSHA1": "kACttuFg23nUo1S2x+y2IFAsWNI=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "15ced05c5316609bce5b43389f8e3f06102a8b18",
+			"revisionTime": "2019-11-24T02:25:21Z",
+			"version": "v1.5",
+			"versionExact": "v1.5.0"
+		},
+		{
+			"checksumSHA1": "I5VjOUipCPwapfDsa+NS7f056gY=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "2a2f0ea997f99becfd8423e4f337d171753fe685",
+			"revisionTime": "2019-11-12T05:12:48Z"
+		}
+	],
+	"rootPath": "wxb"
+}
